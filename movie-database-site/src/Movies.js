@@ -11,8 +11,8 @@ const Movies = () => {
     return <div className='loading'></div>
   }
   return (
-    <section className='movies'>
-      {movies.map((movie) => {
+
+      movies.map((movie) => {
         const { imdbID: id, Poster: poster, Title: title, Year: year } = movie
 
         return (
@@ -26,8 +26,8 @@ const Movies = () => {
             </article>
           </Link>
         )
-      })}
-    </section>
+      })
+      
   )
 }
 
