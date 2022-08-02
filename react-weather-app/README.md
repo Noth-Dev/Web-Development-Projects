@@ -1,3 +1,11 @@
+# For API link:
+
+OpenWeather API: https://openweathermap.org/
+GeoDB Cities API: https://rapidapi.com/wirefreethought/api/geodb-cities/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
